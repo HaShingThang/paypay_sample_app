@@ -85,7 +85,7 @@ https://developer.paypay.ne.jp/products/docs/qrcode
 ## App Invoke
    - App Invoke သည် Dynamic QR Code နှင့် အသုံးပြုပုံချင်း အတူတူပဲ ဖြစ်ပါသည်။```Payload data ကွာခြားနိုင်ပါသည်```
 
-   ### Dynamic QR Code VS App Invoke
+## Dynamic QR Code VS App Invoke
    - ```Dynamic QR Code သည် အရောင်းဆိုင်များတွင် ထားရှိသော Tablet, Pc etc... မှတစ်ဆင့် ဝယ်သူမှမိမိ PayPay App ဖြင့် Scan ဖတ်ပြီး ငွေပေးချေရာ တွင် အသုံးပြုပါသည်။```
    - ```App Invoke သည် E-commerce website or အရောင်းအဝယ် Websit တစ်ခုခု အတွက် ငွေပေးချေရာ တွင် အသုံးပြုရပါသည်။ ငွေပေးချေရာ တွင် ဝယ်သူ၏ device အတွင်း PayPay App ရှိလျှင် PayPay app ထဲသို့ ရောက်ရှိသွားမည်ဖြစ်ပြီး PayPay app မရှိလျှင် paypay payment website မှ ငွေပေးချေရမည်ဖြစ်သည်။```
 
