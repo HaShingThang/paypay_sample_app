@@ -12,7 +12,6 @@ const PAYPAY = require('@paypayopa/paypayopa-sdk-node');
 https://developer.paypay.ne.jp/products/docs/qrcode
   ### 1. Dynamic QR Code (Create QR Code)
   - Dyanmic QR Code သည် အရောင်းဆိုင် တစ်ခုခု အတွက်သာဖြစ်ပြီး ဝယ်ယူသူများသည် PayPay app ဖြင့် Scan ဖတ်ပြီး အလွယ်တကူ ငွေပေးချေရန် အတွက် ဖြစ်တယ်။```Note: QR Code သည် time limit 5 mins ပဲ ရှိလို့  5 mins ကျော် ရင်  Scan ဖတ်လို့လည်း မရတော့ ပါ။ Expired ဖြစ်သွားပါမည်။ ```
-    ### Usage 
     #### Usage
     ```
     PAYPAY.QRCodeCreate(payload, (response) => {
